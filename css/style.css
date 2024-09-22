@@ -1,0 +1,20 @@
+* {
+    background-color: black;
+}
+
+div#container{
+    display: flex;
+    height: 50vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    height: 10em;
+    margin: 2em;
+}
+
+button {
+    background-color: white;
+}
